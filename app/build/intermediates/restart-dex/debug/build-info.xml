@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="23"
+    density="mdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="1227199804148283"
+    token="-3087513711901114201"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="4907" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="2160" />
+    <task
+        name="verifier"
+        duration="195" />
+
+    <artifact
+        location="F:\my_workspace\Sangeet\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="1227199804148283"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="F:\my_workspace\Sangeet\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

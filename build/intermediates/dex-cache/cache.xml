@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\my_workspace\Sangeet\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26238a150c639e87950b2b7e20d55c4741db5636">
+        <dex dex="F:\my_workspace\Sangeet\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b7355fa9ac1630cf9ebff6f6181b216881f3df47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\my_workspace\Sangeet\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bfadc269a0b8cd02b2a94cdbaa3fb6f9789e33c3">
+        <dex dex="F:\my_workspace\Sangeet\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4c3c683782de8810967771867fb0ed643c493774\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/mnt/223655B4365589A5/my_workspace/Sangeet/app/src/main/assets"/><source path="/mnt/223655B4365589A5/my_workspace/Sangeet/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/mnt/223655B4365589A5/my_workspace/Sangeet/app/src/debug/assets"/></dataSet></merger>

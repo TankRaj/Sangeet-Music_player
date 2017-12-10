@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/mnt/223655B4365589A5/my_workspace/Sangeet/app/build/intermediates/res/merged/debug/layout/activity_player.xml",
+        "source": "/mnt/223655B4365589A5/my_workspace/Sangeet/app/src/main/res/layout/activity_player.xml"
+    },
+    {
+        "merged": "/mnt/223655B4365589A5/my_workspace/Sangeet/app/build/intermediates/res/merged/debug/layout/song_layout.xml",
+        "source": "/mnt/223655B4365589A5/my_workspace/Sangeet/app/src/main/res/layout/song_layout.xml"
+    },
+    {
+        "merged": "/mnt/223655B4365589A5/my_workspace/Sangeet/F:\\my_workspace\\Sangeet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_player.xml",
+        "source": "/mnt/223655B4365589A5/my_workspace/Sangeet/F:\\my_workspace\\Sangeet\\app\\src\\main\\res\\layout\\activity_player.xml"
+    },
+    {
+        "merged": "/mnt/223655B4365589A5/my_workspace/Sangeet/F:\\my_workspace\\Sangeet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "/mnt/223655B4365589A5/my_workspace/Sangeet/F:\\my_workspace\\Sangeet\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "/mnt/223655B4365589A5/my_workspace/Sangeet/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/mnt/223655B4365589A5/my_workspace/Sangeet/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/mnt/223655B4365589A5/my_workspace/Sangeet/F:\\my_workspace\\Sangeet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\song_layout.xml",
+        "source": "/mnt/223655B4365589A5/my_workspace/Sangeet/F:\\my_workspace\\Sangeet\\app\\src\\main\\res\\layout\\song_layout.xml"
+    }
+]

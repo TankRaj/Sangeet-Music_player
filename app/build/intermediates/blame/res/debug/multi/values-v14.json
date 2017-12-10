@@ -1,0 +1,52 @@
+[
+    {
+        "outputFile": "/mnt/223655B4365589A5/my_workspace/Sangeet/F:\\my_workspace\\Sangeet\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "/mnt/223655B4365589A5/my_workspace/Sangeet/F:\\my_workspace\\Sangeet\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 225,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 373
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/mnt/223655B4365589A5/my_workspace/Sangeet/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 66,
+                    "endOffset": 117
+                },
+                "from": {
+                    "file": "/mnt/223655B4365589A5/my_workspace/Sangeet/app/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 21,
+                        "endColumn": 73,
+                        "endOffset": 90
+                    }
+                }
+            }
+        ]
+    }
+]

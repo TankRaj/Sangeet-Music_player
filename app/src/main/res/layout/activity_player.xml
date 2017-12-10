@@ -1,0 +1,68 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/bg"
+    tools:context=".Player" >
+
+    <Button
+        android:id="@+id/btplay"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/btfb"
+        android:layout_alignBottom="@+id/btfb"
+        android:layout_centerHorizontal="true"
+        android:soundEffectsEnabled="true"
+        android:background="@drawable/ipa" />
+
+    <Button
+        android:id="@+id/btff"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/btplay"
+        android:layout_alignBottom="@+id/btplay"
+        android:layout_toLeftOf="@+id/btnxt"
+        android:background="@drawable/iff" />
+
+    <Button
+        android:id="@+id/btnxt"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/btff"
+        android:layout_alignBottom="@+id/btff"
+        android:layout_alignRight="@+id/seekBar1"
+        android:background="@drawable/inx" />
+
+    <Button
+        android:id="@+id/btprv"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/seekBar1"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="25dp"
+        android:background="@drawable/ipr" />
+
+    <Button
+        android:id="@+id/btfb"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/btprv"
+        android:layout_alignBottom="@+id/btprv"
+        android:layout_toRightOf="@+id/btprv"
+        android:background="@drawable/ifb"/>
+
+    <SeekBar
+        android:id="@+id/seekBar1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btplay"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="22dp" />
+
+    
+
+</RelativeLayout>
